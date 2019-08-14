@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    font-family: Arial;
+}
+            
+h1 {
+    text-align: center;
+    color: #DF9D93;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.topnav a.active {
+    background-color: #DF9D93;
+    color: black;
+}
+.topnav a {
+    color: black;
+    text-align: center;
+    padding: 5px 2em;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: #e5c4BF;
+    color: black;
+}
+.topnav {
+    text-align: center;
+}
+header{
+    background-color: #FAD8C9;
+    padding: 20px;
+}
+/*next form home's bar*/
+.main{
+    margin-top: 12px;
+    width: 100%;
+    text-align:center;
+}
+.textNsizeH{
+    color: indianred;
+    font-family: 'Lobster', cursive;
+}
+.textNsize{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    color: indianred;
+    text-align:center;
+}
+.size{
+    font-size: 10px;
+}
+.left_up, .left_down, .right{
+    width: 40%;
+    height: 100%;
+    background-color: #F2B8C6;
+    display:inline-block;
+    padding: 10px;
+    overflow: hidden;
+}
+.upLeft{
+    margin-top: 30px;
+    float: left;
+    display:inline-block;
+    
+}
+.upLeft2, .upRight2, .upLeft3, .upRight3{
+    margin-top: 50px;
+    float: left;
+    display:inline-block;
+    
+}
+
+.upLeft, .text1{
+    display:inline-block;
+    
+}
+.upLeft2, .upRight2, .text2{
+    display:inline-block;
+    
+}
+.upLeft3, .upRight3,.text3{
+    display:inline-block;
+    
+}
+/*
+.col1{
+    float: left;
+}
+.col2{
+    float: right;
+}
+*/
